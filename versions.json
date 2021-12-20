@@ -1,52 +1,103 @@
 {
+   "lastEditedTime":"2021-12-20",
    "1.2.5":{
       "client_url":"https://launcher.mojang.com/v1/objects/4a2fac7504182a97dcbcd7560c6392d7c8139928/client.jar",
+      "client_md5":"8e8778078a175a33603a585257f28563",
       "server_url":"https://assets.minecraft.net/1_2_5/minecraft_server.jar",
+      "server_md5":"5f078323c2d661b8d9773c8242d912c3",
+      "proxy_port":11707,
       "time":"2012-04-04",
       "workspace_version":6,
-      "patches":"https://raw.githubusercontent.com/MCPHackers/Vault/r1.2.5/0.0.1-patches.zip",
-      "mappings":"https://raw.githubusercontent.com/MCPHackers/Vault/r1.2.5/0.0.1-mappings.zip"
+      "patches":"https://github.com/MCPHackers/Vault/blob/main/r1.2.5/0.0.1-patches.zip?raw=true",
+      "mappings":"https://github.com/MCPHackers/Vault/blob/main/r1.2.5/0.0.1-mappings.zip?raw=true"
    },
    "1.2.4":{
-      "url":"https://launcher.mojang.com/v1/objects/ad6d1fe7455857269d4185cb8f24e62cc0241aaf/client.jar",
+      "client_url":"https://launcher.mojang.com/v1/objects/ad6d1fe7455857269d4185cb8f24e62cc0241aaf/client.jar",
+      "client_md5":"25423eab6d8707f96cc6ad8a21a7250a",
+      "server_url":"http://files.betacraft.uk/server-archive/release/1.2/1.2.4.jar",
+      "server_md5":"6524b7299b1717ffb6e2b38f171568d0",
+      "proxy_port":11707,
       "time":"2012-03-22",
-      "workspace_version":6
+      "workspace_version":6,
+      "patches":"https://github.com/MCPHackers/Vault/blob/main/r1.2.4/0.0.1-patches.zip?raw=true",
+      "mappings":"https://github.com/MCPHackers/Vault/blob/main/r1.2.4/0.0.1-mappings.zip?raw=true"
    },
    "1.2.3":{
-      "url":"https://launcher.mojang.com/v1/objects/5134e433afeba375c00bbdcd8aead1d3222813ee/client.jar",
+      "client_url":"https://launcher.mojang.com/v1/objects/5134e433afeba375c00bbdcd8aead1d3222813ee/client.jar",
+	  "client_md5":"12f6c4b1bdcc63f029e3c088a364b8e4",
+	  "server_url":"http://files.betacraft.uk/server-archive/release/1.2/1.2.3.jar",
+	  "server_md5":"2604b805012028d522c3f8abe93d36c5",
+	  "proxy_port":11707,
       "time":"2012-03-02",
-      "workspace_version":6
+      "workspace_version":6,
+	  "patches":"https://github.com/MCPHackers/Vault/blob/main/r1.2.3/0.0.1-patches.zip?raw=true",
+      "mappings":"https://github.com/MCPHackers/Vault/blob/main/r1.2.3/0.0.1-mappings.zip?raw=true"
    },
    "1.1":{
-      "url":"https://launcher.mojang.com/v1/objects/f690d4136b0026d452163538495b9b0e8513d718/client.jar",
+      "client_url":"https://launcher.mojang.com/v1/objects/f690d4136b0026d452163538495b9b0e8513d718/client.jar",
+	  "client_md5":"e92302d2acdba7c97e0d8df1e10d2006",
+	  "server_url":"http://files.betacraft.uk/server-archive/release/1.1/1.1.jar",
+	  "server_md5":"b0f4fb91f9723104adf35944bbf3d3cf",
+	  "proxy_port":11707,
       "time":"2012-01-12",
-      "workspace_version":6
+      "workspace_version":6,
+	  "patches":"https://github.com/MCPHackers/Vault/blob/main/r1.1/0.0.1-patches.zip?raw=true",
+      "mappings":"https://github.com/MCPHackers/Vault/blob/main/r1.1/0.0.1-mappings.zip?raw=true"
    },
    "1.0.0":{
-      "url":"https://launcher.mojang.com/v1/objects/b679fea27f2284836202e9365e13a82552092e5d/client.jar",
+      "client_url":"https://launcher.mojang.com/v1/objects/b679fea27f2284836202e9365e13a82552092e5d/client.jar",
+	  "client_md5":"3820d222b95d0b8c520d9596a756a6e6",
+	  "server_url":"http://files.betacraft.uk/server-archive/release/1.0.0/1.0.1.jar",
+	  "server_md5":"934b6010999daa1f1b1ccdf4cb77e052",
+	  "proxy_port":11707,
       "time":"2011-11-18",
-      "server":"1.0.1",
-      "workspace_version":6
+      "workspace_version":6,
+	  "patches":"https://github.com/MCPHackers/Vault/blob/main/r1.0.0/0.0.1-patches.zip?raw=true",
+      "mappings":"https://github.com/MCPHackers/Vault/blob/main/r1.0.0/0.0.1-mappings.zip?raw=true"
    },
    "b1.9-pre5":{
-      "url":"https://assets.minecraft.net/1_9-pre5/minecraft.jar",
+      "client_url":"https://assets.minecraft.net/1_9-pre5/minecraft.jar",
+	  "client_md5":"6258c4f293b939117efe640eda76dca4",
+	  "server_url":"https://assets.minecraft.net/1_9-pre5/minecraft_server.jar",
+	  "server_md5":"69c68380cf198ce50b1f9ecaa8e4681d",
+	  "proxy_port":11705,
       "time":"2011-10-27",
       "workspace_version":5
+	  "patches":"https://github.com/MCPHackers/Vault/blob/main/b1.9-pre5/0.0.1-patches.zip?raw=true",
+      "mappings":"https://github.com/MCPHackers/Vault/blob/main/b1.9-pre5/0.0.1-mappings.zip?raw=true"
    },
    "b1.8.1":{
-      "url":"https://launcher.mojang.com/v1/objects/6b562463ccc2c7ff12ff350a2b04a67b3adcd37b/client.jar",
+      "client_url":"https://launcher.mojang.com/v1/objects/6b562463ccc2c7ff12ff350a2b04a67b3adcd37b/client.jar",
+	  "client_md5":"a59a9fd4c726a573b0a2bdd10d857f59",
+	  "server_url":"http://files.betacraft.uk/server-archive/beta/b1.8.1.jar",
+	  "server_md5":"0c0ed1f8198b37561971f838043838ab,d3dd75cccaa75b1df1401cc4e76a34d5",
+	  "proxy_port":11705,
       "time":"2011-09-15",
-      "workspace_version":5
+      "workspace_version":5,
+	  "patches":"https://github.com/MCPHackers/Vault/blob/main/b1.8%2Cb1.8.1/0.0.1-patches.zip?raw=true",
+      "mappings":"https://github.com/MCPHackers/Vault/blob/main/b1.8%2Cb1.8.1/0.0.1-mappings.zip?raw=true"
    },
    "b1.8":{
-      "url":"https://launcher.mojang.com/v1/objects/3139e9c29b2c74f59ea04de760ac2af5bc21b410/client.jar",
+      "client_url":"https://launcher.mojang.com/v1/objects/3139e9c29b2c74f59ea04de760ac2af5bc21b410/client.jar",
+	  "client_md5":"f8c5a2ccd3bc996792bbe436d8cc08bc",
+	  "server_url":"http://files.betacraft.uk/server-archive/beta/b1.8.jar",
+	  "server_md5":"0c0ed1f8198b37561971f838043838ab",
+	  "proxy_port":11705,
       "time":"2011-09-14",
-      "workspace_version":5
+      "workspace_version":5,
+	  "patches":"https://github.com/MCPHackers/Vault/blob/main/b1.8%2Cb1.8.1/0.0.1-patches.zip?raw=true",
+      "mappings":"https://github.com/MCPHackers/Vault/blob/main/b1.8%2Cb1.8.1/0.0.1-mappings.zip?raw=true"
    },
    "b1.7.3":{
-      "url":"https://launcher.mojang.com/v1/objects/43db9b498cb67058d2e12d394e6507722e71bb45/client.jar",
+      "client_url":"https://launcher.mojang.com/v1/objects/43db9b498cb67058d2e12d394e6507722e71bb45/client.jar",
+	  "client_md5":"",
+	  "server_url":"",
+	  "server_md5":"",
+	  "proxy_port":"",
       "time":"2011-07-08",
-      "workspace_version":5
+      "workspace_version":5,
+	  "patches":"https://github.com/MCPHackers/Vault/blob/main/b1.7%2Cb1.7_01%2Cb1.7.2%2Cb1.7.3/0.0.1-patches.zip?raw=true",
+      "mappings":"https://github.com/MCPHackers/Vault/blob/main/b1.7%2Cb1.7_01%2Cb1.7.2%2Cb1.7.3/0.0.1-mappings.zip?raw=true"
    },
    "b1.7.2":{
       "url":"https://launcher.mojang.com/v1/objects/7dc50cc5e2ff204a7283f0c7d38cd0370b49875b/client.jar",
