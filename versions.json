@@ -62,7 +62,7 @@
 	  "server_md5":"69c68380cf198ce50b1f9ecaa8e4681d",
 	  "proxy_port":11705,
       "time":"2011-10-27",
-      "workspace_version":5
+      "workspace_version":5,
 	  "patches":"https://github.com/MCPHackers/Vault/blob/main/b1.9-pre5/0.0.1-patches.zip?raw=true",
       "mappings":"https://github.com/MCPHackers/Vault/blob/main/b1.9-pre5/0.0.1-mappings.zip?raw=true"
    },
